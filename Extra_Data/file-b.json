@@ -1,0 +1,123 @@
+{
+    "OUTREACH CLINIC DATA FROM B": {
+        "Person filling form": "value",
+        "Position": "value",
+        "Health Centre": "value",
+        "Village": "value",
+        "Date": "value"
+    },
+    "OUTREACH CLINIC INFORMATION": {
+        "Names of health workers who attended": "value",
+        "Number of Health Workers": {
+            "Total Health Workers": "value",
+            "Enrolled Midwives": "value",
+            "Registered Midwives": "value",
+            "Case Officer": "value",
+            "Counsellors": "value",
+            "Lab Technician": "value",
+            "Nursing Assistant": "value",
+            "Enrolled Nurse": "value",
+            "Registered Nurse": "value",
+            "Other (Specify)": "value"
+        },
+        "Services offered": [
+            "General Treatment",
+            "ART Refills",
+            "Family Planning",
+            "ANC/PNC",
+            "HIV Counselling/Testing",
+            "Immunization"
+        ],
+        "Were there stockouts? (circle one)": "Y/N",
+        "What services were IMPACTED or UNAVAILABLE due to stockouts?": {
+            "General Treatment": [
+                "Malaria Treatment",
+                "Amoxicillin",
+                "Other"
+            ],
+            "HIV/ART": [
+                "ART",
+                "Testing",
+                "Other"
+            ],
+            "Family Planning": [
+                "Pregnancy Tests",
+                "Other"
+            ],
+            "ANC/PNC": [
+                "value"
+            ]
+        }
+    },
+    "ANTI-Retroviral Treatment (ART)": {
+        "1. TB": {
+            "Diagnosed": "value",
+            "Treated": "value"
+        },
+        "2. Number of Patients given each ART duration": {
+            "1 Month": "value",
+            "2 Month": "value",
+            "3 Month": "value",
+            "___months": "value",
+            "Total number of people": "value",
+            "Total no. months given": "value"
+        },
+        "3. Patients Receiving ART": {
+            "Age": [
+                "0-1 year",
+                "2-4 years",
+                "5-14 years",
+                "15 and up",
+                "Total"
+            ],
+            "Male": {
+                "0-1 year": "value",
+                "2-4 years": "value",
+                "5-14 years": "value",
+                "15 and up": "value",
+                "Total": "value"
+            },
+            "Female": {
+                "0-1 year": "value",
+                "2-4 years": "value",
+                "5-14 years": "value",
+                "15 and up": "value",
+                "Total": "value"
+            }
+        },
+        "3. Patients Newly Linked to Core": {
+            "Age": [
+                "0-1 year",
+                "2-4 years",
+                "5-14 years",
+                "15 and up",
+                "Total"
+            ],
+            "Male": {
+                "0-1 year": "value",
+                "2-4 years": "value",
+                "5-14 years": "value",
+                "15 and up": "value",
+                "Total": "value"
+            },
+            "Female": {
+                "0-1 year": "value",
+                "2-4 years": "value",
+                "5-14 years": "value",
+                "15 and up": "value",
+                "Total": "value"
+            }
+        },
+        "5. Viral Load Blood Samples Token": {
+            " ": [
+                "Total"
+            ],
+            "Male": {
+                "Total": "value"
+            },
+            "Female": {
+                "Total": "value"
+            }
+        }
+    }
+}

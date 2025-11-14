@@ -1,0 +1,81 @@
+{
+    "OUTREACH CLINIC DATA FROM C": {
+        "Person filling form": "value",
+        "Health Centre": "value",
+        "Position": "value",
+        "Village visited": "value",
+        "Date": "value",
+        "Additional treatments or test given and number of patients for each": "value",
+        "Additional comments/concerns (continue on back if necessary)": "value"
+    },
+    "Other Services": {
+        "Diabetes Referrals": "value",
+        "Child Check-ups": "value",
+        "Patients Given Pain Relievers": "value",
+        "Immunizations Given": "value",
+        "Vitamins Given": "value",
+        "Total Pregnant Women Served at Outreach for any reason":{
+            "Syphilis": {
+                "Total Tested": "value",
+                "Tested Positive": "value",
+                "Given Treatment": "value"
+            },
+            "Hypertension": {
+                "Total Screened": "value",
+                "Diagnosed": "value",
+                "Given Medication": "value"
+            },
+            "Malaria": {
+                "Suspected Fever": "value",
+                "Tested Positive": "value",
+                "Given Medication": "value"
+            }
+        },
+        "__" : {
+            "Diagnosed": {
+                "Intestinal Worms": "value",
+                "Fungal (Non-Candidiasis)": "value",
+                "Candidiasis": "value",
+                "Ulcers": "value",
+                "Diarrhea": "value",
+                "Gastro-Intestinal Disorders (Non-Diarrhea)": "value",
+                "Allergy": "value",
+                "Chronic Respiratory Disease": "value"
+            },
+            "Given Treatment": {
+                "Intestinal Worms": "value",
+                "Fungal (Non-Candidiasis)": "value",
+                "Candidiasis": "value",
+                "Ulcers": "value",
+                "Diarrhea": "value",
+                "Gastro-Intestinal Disorders (Non-Diarrhea)": "value",
+                "Allergy": "value",
+                "Chronic Respiratory Disease": "value"
+            }
+        },
+        "___" : {
+            "Diagnosed": {
+                "Measles": "value",
+                "RTI": "value",
+                "Malnutrition": "value",
+                "Burns": "value",
+                "Injuries": "value",
+                "UTI": "value",
+                "Gonorrhoea": "value",
+                "Other STIs": "value",
+                "Eye Infection": "value"
+            },
+            "Given Treatment": {
+                "Measles": "value",
+                "RTI": "value",
+                "Malnutrition": "value",
+                "Burns": "value",
+                "Injuries": "value",
+                "UTI": "value",
+                "Gonorrhoea": "value",
+                "Other STIs": "value",
+                "Eye Infection": "value"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "OUTREACH CLINIC DATA FROM A": {
+        "Person filling form": "value",
+        "Position": "value",
+        "LCA name (If Applicable)": "value",
+        "Village": "value",
+        "District": "value"
+    },
+    "OUTREACH CLINIC INFORMATION": {
+        "Date": "value",
+        "Intended Start Time": "value",
+        "Actual Start Time": "value",
+        "End Time": "value",
+        "Was an HAC worker present? (Circle)": "Yes/No",
+        "Were any other organisations involved or contributing to this outreach?": "Yes/No",
+        "If yes, name of organisation": "value",
+        "List names of villages patients came from": [
+            "value1",
+            "value2"
+        ]
+    },
+    "Total Patients": {
+        "Ages": [
+            "0-28 days",
+            "29 days-4 years",
+            "5 years-9 years",
+            "10 years-18 years",
+            "19 years-24 years",
+            "25 years-59 years",
+            "60 years and up"
+        ],
+        "Male": {
+            "0-28 days": "Nill",
+            "29 days-4 years": "value",
+            "5 years-9 years": "value",
+            "10 years-18 years": "value",
+            "19 years-24 years": "value",
+            "25 years-59 years": "value",
+            "60 years and up": "value"
+        },
+        "Female": {
+            "0-28 days": "Nill",
+            "29 days-4 years": "value",
+            "5 years-9 years": "value",
+            "10 years-18 years": "value",
+            "19 years-24 years": "value",
+            "25 years-59 years": "value",
+            "60 years and up": "value"
+        },
+        "Total": {
+            "0-28 days": "Nill",
+            "29 days-4 years": "value",
+            "5 years-9 years": "value",
+            "10 years-18 years": "value",
+            "19 years-24 years": "value",
+            "25 years-59 years": "value",
+            "60 years and up": "value"
+        }
+    },
+    "Money Collected": {
+        " ": [
+            "Adults",
+            "Children",
+            "Exceptions",
+            "Reduced Payments",
+            "Fees waived",
+            "Total"
+        ],
+        "Number of People": {
+            "Adults": "value",
+            "Children": "value",
+            "Exceptions": "value",
+            "Reduced Payments": "value",
+            "Fees waived": "value",
+            "Total": "value"
+        },
+        "UGX per person": {
+            "Adults": "value",
+            "Children": "value",
+            "Exceptions": "value",
+            "Reduced Payments": "value",
+            "Fees waived": "value",
+            "Total": "value"
+        },
+        "Total Collected":{
+            "Adults": "value",
+            "Children": "value",
+            "Exceptions": "value",
+            "Reduced Payments": "value",
+            "Fees waived": "value",
+            "Total": "value"
+        }
+    },
+    "Money Distributed": {
+        " ": [
+            "Total given to HCWs",
+            "Total given to VHTs/LCA Member",
+            "Transporters",
+            "Other Costs",
+            "Total"
+        ],
+        "Amount Distributed": {
+            "Total given to HCWs": "value",
+            "Total given to VHTs/LCA Member": "value",
+            "Transporters": "value",
+            "Other Costs": "value",
+            "Total": "value"
+        }
+    }
+}
